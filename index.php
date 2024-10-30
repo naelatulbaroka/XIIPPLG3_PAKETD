@@ -1,1 +1,1 @@
-.gbeh 
+ini adalah index
